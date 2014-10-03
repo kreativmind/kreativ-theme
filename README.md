@@ -1,6 +1,6 @@
 # Kreativ
 
-A minimalistic theme for [Ghost](https://ghost.org/).
+A minimalistic theme for [Kreativ](https://#/).
 
 ![Kreativ](assets/images/layout.jpg)
 
