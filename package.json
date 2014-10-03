@@ -1,0 +1,15 @@
+{
+  "name": "Kreativ",
+  "version": "1.0.0",
+  "description": "A minimalistic theme for Kreativ.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mtech/kreativ-theme.git"
+  },
+  "author": "Jeremy Monroe <info@monroedesign.net>",
+  "bugs": {
+    "url": "https://github.com/mtech/kreativ-theme/issues"
+  },
+  "homepage": "https://github.com/mtech/kreativ-theme",
+  "private": true
+}
