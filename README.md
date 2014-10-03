@@ -2,7 +2,7 @@
 
 A minimalistic theme for [Kreativ](https://#/).
 
-![Kreativ](assets/images/layout.jpg)
+# ![Kreativ](assets/images/layout.jpg)
 
 ## Installation
 
