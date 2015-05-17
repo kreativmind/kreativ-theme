@@ -1,4 +1,4 @@
 kreativ-theme
 =============
 
-Minimalistic theme for Kreativ
+Minimalistic Kreativ theme for Ghost
