@@ -111,7 +111,7 @@ strong {
 .navigation {
 	height:90px;
 	font-weight:100;
-	background:#1b1f23;
+	background:#dddddd;
 	-webkit-animation-duration:1s;
 	animation-duration:1s;
 }
